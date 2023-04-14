@@ -1,11 +1,11 @@
 # NAIST-PBL
 
-<h2>2022年度　データサイエンスPBL I/II　AY 2022　Data Science PBL I/II</h2>
+<h2 align="center">2022年度　データサイエンスPBL I/II　AY 2022　Data Science PBL I/II</h2>
 
 <br />
 
 <p align="center">
-  <a href='https://academy.dqlab.id/main/learn_more'><img src="http://www-dsc.naist.jp/dsc_naist/wp-content/themes/academic_renew/img/common/logo.svg"></a>
+  <a href='http://www-dsc.naist.jp/dsc_naist/dsc-pbl/'><img src="http://www-dsc.naist.jp/dsc_naist/wp-content/themes/academic_renew/img/common/logo.svg"></a>
 </p>
 
 <br />

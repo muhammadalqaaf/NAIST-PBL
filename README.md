@@ -38,10 +38,6 @@
 <details>
 <summary>Result of PBL 1</summary>
 
-- [[🔍](http://www-dsc.naist.jp/dsc_naist/wp-content/uploads/2022/07/2022_DS_PBL1.pdf)] [[📂](https://drive.google.com/uc?export=download&id=1HoUwcDBl0q574btcfg9t3eoFjUMMV42I)]  [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTP1JOGKCL/)] Python for Data Professional Beginner - Part 1
-
-- [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/Python/Fundamental/Python%20for%20Data%20Professional%20Beginner%20-%20Part%202)] [[🔍](https://academy.dqlab.id/main/package/practice/160)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTP1TJEAKE/)] Python for Data Professional Beginner - Part 2
-
-- [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/Python/Fundamental/Python%20for%20Data%20Professional%20Beginner%20-%20Part%203)] [[🔍](https://academy.dqlab.id/main/package/practice/161)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTP1GMBOKW/)] Python for Data Professional Beginner - Part 3
+- [[🔍](http://www-dsc.naist.jp/dsc_naist/wp-content/uploads/2022/07/2022_DS_PBL1.pdf)] [[📂](https://drive.google.com/uc?export=download&id=1HoUwcDBl0q574btcfg9t3eoFjUMMV42I)]  [[💻](https://academy.dqlab.id/certificate/pdf/DQLABINTP1JOGKCL/)] PBL 1
 
 </details>

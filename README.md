@@ -37,8 +37,8 @@
 
 <h4> Result </h4>
 <ul>
-  <li>[[Introduction](http://www-dsc.naist.jp/dsc_naist/wp-content/uploads/2022/07/2022_DS_PBL1.pdf)]</li>
-  <li>[[Code](https://academy.dqlab.id/certificate/pdf/DQLABDATRCNBNGVR/TRACK)]</li>
-  <li>[[Dataset](https://academy.dqlab.id/certificate/pdf/DQLABDATRCNBNGVR/TRACK)]</li>
-  <li>[[Report](https://academy.dqlab.id/certificate/pdf/DQLABDATRCNBNGVR/TRACK)]</li>
+  <li>[**Introduction**(http://www-dsc.naist.jp/dsc_naist/wp-content/uploads/2022/07/2022_DS_PBL1.pdf)]</li>
+  <li>[**Code**(https://academy.dqlab.id/certificate/pdf/DQLABDATRCNBNGVR/TRACK)]</li>
+  <li>[**Dataset**(https://academy.dqlab.id/certificate/pdf/DQLABDATRCNBNGVR/TRACK)]</li>
+  <li>[**Report**(https://academy.dqlab.id/certificate/pdf/DQLABDATRCNBNGVR/TRACK)]</li>
 </ul>

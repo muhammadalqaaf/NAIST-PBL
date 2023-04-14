@@ -32,7 +32,7 @@
 
 ![DS-PBL](README/Career.jpg)
 
-## Data Science PBL I [[🔍](http://www-dsc.naist.jp/dsc_naist/dsc-pbl/)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABDATRCNBNGVR/TRACK)] <a href='http://www-dsc.naist.jp/dsc_naist/dsc-pbl/'><img src='https://www.naist.jp/about/img/logomark_Rnasi.png' align="right" height="45" /></a>
+## Data Science PBL I [[🔍](http://www-dsc.naist.jp/dsc_naist/dsc-pbl/)] <a href='http://www-dsc.naist.jp/dsc_naist/dsc-pbl/'><img src='https://www.naist.jp/about/img/logomark_Rnasi.png' align="right" height="45" /></a>
 <p align="justify">
   PBL Iでは最初にテーマ説明とグループ分けとを行い、最後に発表を行ってもらう予定ですが、本年度はオンライン会議またはオンラインとのハイブリッドとする予定です。In PBL I, we will first introduce the tasks and themes and make the working groups. And in the end of the term, we will ask you to present your results. Note that, in this year, we plan to use an online conference for both.
 </p>

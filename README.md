@@ -36,8 +36,10 @@
 </p>
 
 <h4> Result </h4>
+<details>
 - [[📃](http://www-dsc.naist.jp/dsc_naist/wp-content/uploads/2022/07/2022_DS_PBL1.pdf)] [[💻](https://academy.dqlab.id/main/package/practice/213)] [[💾](https://academy.dqlab.id/certificate/pdf/DQLABSQLT1VPCNOL/)] Fundamental SQL Using SELECT Statement
-- 
+</details>
+
 <ul>
   <li>[**Introduction**(http://www-dsc.naist.jp/dsc_naist/wp-content/uploads/2022/07/2022_DS_PBL1.pdf)]</li>
   <li>[**Code**(https://academy.dqlab.id/certificate/pdf/DQLABDATRCNBNGVR/TRACK)]</li>

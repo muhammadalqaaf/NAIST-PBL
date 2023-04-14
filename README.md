@@ -26,27 +26,21 @@
   PBL IIでは各自、自分の研究テーマで扱っているデータを対象として、必要な解析手法を学び、工夫しながら適用し、研究の進展に繋げてもらうことを目標とします。/ In PBL II, we ask each students to learn the methods of data science to apply them to their own research themes.
 </p>
 
-![Hal](README/hal.png)
-
-<p align="justify">
-  Di DQLab, terdapat menu <b>Learn</b> dimana kita bisa belajar materi yang disajikan dengan sangat lengkap dan runtut, sehingga tidak perlu bingung mau mulai dari mana. Kemudian terdapat juga beberapa <b>Project</b> yang dibuat berdasarkan kasus di lapangan, jadi kita bisa belajar dan merasakan langsung peran dari seorang praktisi data. Tidak lupa juga terdapat <b>Career Track</b> yang bisa menjadi awal bagi kita dalam memulai karir di bidang data.
-</p>
-
-<p align="justify">
-  Repositori ini saya gunakan untuk menyimpan dan membagikan data sebagai hasil dari belajar dan mengerjakan berbagai materi dan project di DQLab. Dalam setiap folder akan saya lampirkan dokumen markdown dan data yang digunakan dalam materi atau project yang bersangkutan.
-</p>
-
 ---
 
-<h1 align="center">Career Track</h1>
+<h3 align="center">DS-PBL</h3>
 
-![Career](README/Career.jpg)
+![DS-PBL](README/Career.jpg)
 
-## Data Analyst Career Track (Python) [[🔍](https://academy.dqlab.id/main/track/67)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABDATRCNBNGVR/TRACK)] <a href='README\analytics.png'><img src='README\analytics.png' align="right" height="45" /></a>
+## Data Science PBL I [[🔍](http://www-dsc.naist.jp/dsc_naist/dsc-pbl/)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABDATRCNBNGVR/TRACK)] <a href='http://www-dsc.naist.jp/dsc_naist/dsc-pbl/'><img src='https://www.naist.jp/about/img/logomark_Rnasi.png' align="right" height="45" /></a>
+<p align="justify">
+  PBL Iでは最初にテーマ説明とグループ分けとを行い、最後に発表を行ってもらう予定ですが、本年度はオンライン会議またはオンラインとのハイブリッドとする予定です。In PBL I, we will first introduce the tasks and themes and make the working groups. And in the end of the term, we will ask you to present your results. Note that, in this year, we plan to use an online conference for both.
+</p>
 
-<details>
-<summary>Memahami Bahasa Pemrograman Fundamental</summary>
-
-- [[📂](https://github.com/muhammadalqaaf/DQLab/tree/main/data-analyst/python/Python%20for%20Data%20Professional%20Beginner%20-%20Part%201)] [[🔍](https://academy.dqlab.id/main/package/practice/157)] [[📃](https://academy.dqlab.id/Certificate_check/result/DQLABINTP1ULRCCO)] Python for Data Professional Beginner - Part 1
-
-</details>
+> Result
+<ul>
+  <li>[[Introduction](http://www-dsc.naist.jp/dsc_naist/wp-content/uploads/2022/07/2022_DS_PBL1.pdf)]</li>
+  <li>[[Code](https://academy.dqlab.id/certificate/pdf/DQLABDATRCNBNGVR/TRACK)]</li>
+  <li>[[Dataset](https://academy.dqlab.id/certificate/pdf/DQLABDATRCNBNGVR/TRACK)]</li>
+  <li>[[Report](https://academy.dqlab.id/certificate/pdf/DQLABDATRCNBNGVR/TRACK)]</li>
+</ul>

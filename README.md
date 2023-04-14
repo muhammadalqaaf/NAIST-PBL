@@ -35,7 +35,7 @@
   PBL Iでは最初にテーマ説明とグループ分けとを行い、最後に発表を行ってもらう予定ですが、本年度はオンライン会議またはオンラインとのハイブリッドとする予定です。In PBL I, we will first introduce the tasks and themes and make the working groups. And in the end of the term, we will ask you to present your results. Note that, in this year, we plan to use an online conference for both.
 </p>
 
-> Result
+<h4> Result </h4>
 <ul>
   <li>[[Introduction](http://www-dsc.naist.jp/dsc_naist/wp-content/uploads/2022/07/2022_DS_PBL1.pdf)]</li>
   <li>[[Code](https://academy.dqlab.id/certificate/pdf/DQLABDATRCNBNGVR/TRACK)]</li>

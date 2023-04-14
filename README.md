@@ -38,6 +38,6 @@
 <details>
 <summary>Result of PBL 1</summary>
 
-- [[🔍](http://www-dsc.naist.jp/dsc_naist/wp-content/uploads/2022/07/2022_DS_PBL1.pdf)] [[📂](https://drive.google.com/uc?export=download&id=1HoUwcDBl0q574btcfg9t3eoFjUMMV42I)]  [[💻](https://github.com/muhammadalqaaf/NAIST-PBL/blob/main/pbl-1.ipynb)] PBL 1
+- [[🔍](http://www-dsc.naist.jp/dsc_naist/wp-content/uploads/2022/07/2022_DS_PBL1.pdf)] [[📂](https://github.com/muhammadalqaaf/NAIST-PBL/blob/main/pGI50_mols.tsv)]  [[💻](https://github.com/muhammadalqaaf/NAIST-PBL/blob/main/pbl-1.ipynb)] PBL 1
 
 </details>

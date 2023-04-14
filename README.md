@@ -1,6 +1,6 @@
 # NAIST-PBL
 
-2022年度　データサイエンスPBL I/II　AY 2022　Data Science PBL I/II
+<h2>2022年度　データサイエンスPBL I/II　AY 2022　Data Science PBL I/II</h2>
 
 <br />
 

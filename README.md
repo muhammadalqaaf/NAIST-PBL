@@ -36,7 +36,7 @@
 </p>
 
 <h4> Result </h4>
-- [[Introduction](http://www-dsc.naist.jp/dsc_naist/wp-content/uploads/2022/07/2022_DS_PBL1.pdf)] [[Code](https://academy.dqlab.id/main/package/practice/213)] [[Dataset](https://academy.dqlab.id/certificate/pdf/DQLABSQLT1VPCNOL/)] Fundamental SQL Using SELECT Statement
+- [[📃](http://www-dsc.naist.jp/dsc_naist/wp-content/uploads/2022/07/2022_DS_PBL1.pdf)] [[💻](https://academy.dqlab.id/main/package/practice/213)] [[💾](https://academy.dqlab.id/certificate/pdf/DQLABSQLT1VPCNOL/)] Fundamental SQL Using SELECT Statement
 - 
 <ul>
   <li>[**Introduction**(http://www-dsc.naist.jp/dsc_naist/wp-content/uploads/2022/07/2022_DS_PBL1.pdf)]</li>

@@ -35,14 +35,13 @@
   PBL Iでは最初にテーマ説明とグループ分けとを行い、最後に発表を行ってもらう予定ですが、本年度はオンライン会議またはオンラインとのハイブリッドとする予定です。In PBL I, we will first introduce the tasks and themes and make the working groups. And in the end of the term, we will ask you to present your results. Note that, in this year, we plan to use an online conference for both.
 </p>
 
-<h4> Result </h4>
 <details>
-- [[📃](http://www-dsc.naist.jp/dsc_naist/wp-content/uploads/2022/07/2022_DS_PBL1.pdf)] [[💻](https://academy.dqlab.id/main/package/practice/213)] [[💾](https://academy.dqlab.id/certificate/pdf/DQLABSQLT1VPCNOL/)] Fundamental SQL Using SELECT Statement
-</details>
+<summary>Memahami Bahasa Pemrograman Fundamental</summary>
 
-<ul>
-  <li>[**Introduction**(http://www-dsc.naist.jp/dsc_naist/wp-content/uploads/2022/07/2022_DS_PBL1.pdf)]</li>
-  <li>[**Code**(https://academy.dqlab.id/certificate/pdf/DQLABDATRCNBNGVR/TRACK)]</li>
-  <li>[**Dataset**(https://academy.dqlab.id/certificate/pdf/DQLABDATRCNBNGVR/TRACK)]</li>
-  <li>[**Report**(https://academy.dqlab.id/certificate/pdf/DQLABDATRCNBNGVR/TRACK)]</li>
-</ul>
+- [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/Python/Fundamental/Python%20for%20Data%20Professional%20Beginner%20-%20Part%201)] [[🔍](https://academy.dqlab.id/main/package/practice/157)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTP1JOGKCL/)] Python for Data Professional Beginner - Part 1
+
+- [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/Python/Fundamental/Python%20for%20Data%20Professional%20Beginner%20-%20Part%202)] [[🔍](https://academy.dqlab.id/main/package/practice/160)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTP1TJEAKE/)] Python for Data Professional Beginner - Part 2
+
+- [[📂](https://github.com/MyArist/DQLab/tree/master/Learn/Python/Fundamental/Python%20for%20Data%20Professional%20Beginner%20-%20Part%203)] [[🔍](https://academy.dqlab.id/main/package/practice/161)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTP1GMBOKW/)] Python for Data Professional Beginner - Part 3
+
+</details>
